@@ -1,1 +1,1 @@
-# Myntra-Functional-Code-by-KG-Coding
+# Myntra-Functional-Project-by-KG-Coding
